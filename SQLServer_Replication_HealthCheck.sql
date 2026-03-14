@@ -2,10 +2,10 @@
 ==============================================================================
   Script:        replication-health-check.sql
   Author:        Misty Collins
-  Compatible with: SQL Server 2014 (and later)
-  Covers: Transactional, Merge, and Snapshot Replication
-  Run as: sysadmin or replmonitor role on the distribution database
-  Run on: The DISTRIBUTOR instance (or publisher if self-distributing)
+  Compatible with:SQL Server 2014 (and later)
+  Covers:        Transactional, Merge, and Snapshot Replication
+  Run as:        sysadmin or replmonitor role on the distribution database
+  Run on:        The DISTRIBUTOR instance (or publisher if self-distributing)
 ==============================================================================
 */
 
